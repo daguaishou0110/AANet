@@ -1,0 +1,10 @@
+repeat:1, ROC-AUC:0.9122, Precision:0.7949, Accuracy:0.6589, F1_score:0.6147, AUPR:0.5923
+repeat:2, ROC-AUC:0.9386, Precision:0.8170, Accuracy:0.7005, F1_score:0.6713, AUPR:0.6233
+repeat:3, ROC-AUC:0.9154, Precision:0.8201, Accuracy:0.7119, F1_score:0.6866, AUPR:0.6316
+repeat:4, ROC-AUC:0.9166, Precision:0.8231, Accuracy:0.7170, F1_score:0.6929, AUPR:0.6360
+repeat:5, ROC-AUC:0.8985, Precision:0.8204, Accuracy:0.7106, F1_score:0.6846, AUPR:0.6312
+repeat:6, ROC-AUC:0.9279, Precision:0.8099, Accuracy:0.6819, F1_score:0.6461, AUPR:0.6092
+repeat:7, ROC-AUC:0.9675, Precision:0.8005, Accuracy:0.6560, F1_score:0.6112, AUPR:0.5901
+repeat:8, ROC-AUC:0.9245, Precision:0.8060, Accuracy:0.6904, F1_score:0.6574, AUPR:0.6153
+repeat:9, ROC-AUC:0.9443, Precision:0.8730, Accuracy:0.8270, F1_score:0.8219, AUPR:0.7409
+repeat:10, ROC-AUC:0.9359, Precision:0.8121, Accuracy:0.6870, F1_score:0.6534, AUPR:0.6132

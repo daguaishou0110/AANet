@@ -1,0 +1,33 @@
+reddit:
+Adversarial Model Epoch: [0/3], learning rate:0.000010, train loss:0.4611, train auc:0.9731, valid auc:1.0000
+Adversarial Model Epoch: [1/3], learning rate:0.000010, train loss:0.3313, train auc:0.9952, valid auc:1.0000
+Adversarial Model Epoch: [2/3], learning rate:0.000010, train loss:0.3396, train auc:0.9935, valid auc:1.0000
+Adversarial Model Epoch: [3/3], learning rate:0.000010, train loss:0.3338, train auc:0.9959, valid auc:1.0000
+Total training time: 537.04 seconds
+model_file:model0.pkl,repeat:1, ROC-AUC:0.8863, Precision:0.7818, Accuracy:0.6090, F1_score:0.5385, AUPR:0.5610
+
+model_file:model1.pkl,repeat:1, ROC-AUC:0.6571, Precision:0.7746, Accuracy:0.5818, F1_score:0.4928, AUPR:0.5444
+
+model_file:model2.pkl,repeat:1, ROC-AUC:0.8350, Precision:0.7687, Accuracy:0.5775, F1_score:0.4862, AUPR:0.5420
+
+model_file:model3.pkl,repeat:1, ROC-AUC:0.8522, Precision:0.7959, Accuracy:0.6528, F1_score:0.6045, AUPR:0.5903
+
+repeat:1, ROC-AUC:0.8522, Precision:0.7959, Accuracy:0.6528, F1_score:0.6045, AUPR:0.5903
+
+Adversarial Model Epoch: [0/3], learning rate:0.000010, train loss:0.6313, train auc:0.9037, valid auc:0.9625
+Adversarial Model Epoch: [1/3], learning rate:0.000010, train loss:0.4671, train auc:0.9879, valid auc:0.9870
+Adversarial Model Epoch: [2/3], learning rate:0.000010, train loss:0.3589, train auc:0.9959, valid auc:0.9964
+Adversarial Model Epoch: [3/3], learning rate:0.000010, train loss:0.3545, train auc:0.9915, valid auc:0.9870
+Total training time: 159.88 seconds
+model_file:model0.pkl,repeat:1, ROC-AUC:0.9250, Precision:0.7897, Accuracy:0.6342, F1_score:0.5795, AUPR:0.5751
+
+model_file:model1.pkl,repeat:1, ROC-AUC:0.9784, Precision:0.7718, Accuracy:0.6159, F1_score:0.5513, AUPR:0.5635
+
+model_file:model2.pkl,repeat:1, ROC-AUC:0.8697, Precision:0.7975, Accuracy:0.6554, F1_score:0.6101, AUPR:0.5898
+
+model_file:model3.pkl,repeat:1, ROC-AUC:0.8802, Precision:0.7922, Accuracy:0.6731, F1_score:0.6341, AUPR:0.6036
+
+repeat:1, ROC-AUC:0.9250, Precision:0.7897, Accuracy:0.6342, F1_score:0.5795, AUPR:0.5751
+
+
+进程已结束,退出代码0
